@@ -1,0 +1,8 @@
+streamlit
+torch
+openai-clip
+Pillow
+numpy
+pandas
+matplotlib
+groq

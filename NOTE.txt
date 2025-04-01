@@ -1,0 +1,9 @@
+1. Install the required packages by opening command prompt onto this folder and passing the command
+
+pip install -r requirements.txt
+
+
+2. Go inside ./app and start the application by the command 
+
+streamlit run app.py
+
