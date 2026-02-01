@@ -1,4 +1,4 @@
-Zero-Shot Image Classification with CLIP & LLaMA 3.3
+Zero-Shot Image Classification Using CLIP For Interactive Kiosk Assistance
 
 📌 Overview
 This project demonstrates a zero-shot image classification system built using OpenAI’s CLIP model on the Animals with Attributes 2 (AWA2) dataset. The application is deployed using Streamlit and enhanced with LLaMA 3.3 70B Versatile to dynamically generate and answer context-aware questions about classified images.
