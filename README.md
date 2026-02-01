@@ -42,3 +42,6 @@ The system classifies images without explicit training on every class, enabling 
 
 📌 Results
 The system effectively identifies both seen and unseen image categories using zero-shot learning. Attribute-based classification combined with CLIP embeddings enables accurate predictions without class-specific training data. Transformer architecture comparisons show performance variation between ViT-B/16 and ViT-B/32 models.
+
+📌 Published : https://ijirt.org/Article?manuscript=185330
+
